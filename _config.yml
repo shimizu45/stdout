@@ -1,5 +1,5 @@
 title: stdout
-url:  https://shimizu45.github.io/stdout/
+url:  https://shimizu45.github.io/stdout
 plugins:
   - jekyll-paginate
 paginate: 10
