@@ -1,0 +1,13 @@
+title: stdout
+plugins:
+  - jekyll-paginate
+paginate: 10
+paginate_path: /page-:num
+source: .
+destination: ./_site
+github: [metadata]
+sass:
+    style: :compressed
+    sass_dir: assets/css/
+
+
